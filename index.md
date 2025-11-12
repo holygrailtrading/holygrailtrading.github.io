@@ -1,4 +1,4 @@
-# 🏛️ The Architect's Blueprint: Quest for the Holy Grail Perfect Price Action Setup
+# 🏛️ Quest for the Holy Grail Perfect Price Action Setup
 
 Welcome, fellow architect of fortune, to the repository dedicated to constructing the "Holy Grail Perfect Price Action Setup." Just as a master architect designs structures that defy gravity and time, we endeavor to engineer a trading blueprint that stands resilient against market turbulence and consistently yields optimal outcomes.
 
